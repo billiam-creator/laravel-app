@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Company - Home</title>
+    <title>Our Company - Dashboard</title>
     <style>
         /* BASIC GLOBAL STYLES & NAVBAR STYLES (MAINTAINED) */
         body {
@@ -138,7 +138,7 @@
             <h1>Our Company</h1>
             <nav>
                 <ul>
-                    <li><a href="/">Home</a></li>
+                    <li><a href="/">Dashboard</a></li>
                     <li><a href="/about">About Us</a></li>
                     <li><a href="/services">Services</a></li>
                     <li><a href="/events">Events</a></li> 
